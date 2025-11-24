@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alan713
-- 👀 I’m interested in quantitative finance, cloud computing, tech, science, fintech..
-- 🌱 I’m currently learning aws, azure, statistics, computer science...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in oil and gas, fintech, quantitative finance, cloud computing, tech, computer science, ai
+- 🌱 I’m currently learning aws, azure, statistics, computer science, ai...
+- 💞️ I’m looking to collaborate on some fintech ideas
 - 📫 How to reach me @alan713 on instagram, twitter, linkedin.
 
 <!---
